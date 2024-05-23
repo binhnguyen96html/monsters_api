@@ -11,7 +11,7 @@
 - psql -U node_user monstersdb;
 
 <h5>How to set up password:</h5>
-- Open Postgres app, click settings: HBA file -> click show
+- Open Postgres app, click settings: HBA file -> click show \n
 - Drop the file into the terminal
 - Change value ‘trust’ of three first method to md5
 - Stop postgres app and start
