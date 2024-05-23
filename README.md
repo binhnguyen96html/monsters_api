@@ -11,12 +11,12 @@
 - psql -U node_user monstersdb;
 
 <h5>How to set up password:</h5>
-- Open Postgres app, click settings: HBA file -> click show /n
-- Drop the file into the terminal
-- Change value ‘trust’ of three first method to md5
-- Stop postgres app and start
-- npm run configure 
-- Enter 3 times for password: node_password
+- Open Postgres app, click settings: HBA file -> click show <br>
+- Drop the file into the terminal<br>
+- Change value ‘trust’ of three first method to md5<br>
+- Stop postgres app and start<br>
+- npm run configure <br>
+- Enter 3 times for password: node_password<br>
 
 <h5>Website: </h5>Node-postgres.com
 <h5>Set up: </h5> index.js => node db
